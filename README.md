@@ -1,6 +1,6 @@
 # Nexus-LiteOS-PT-BR
 Windows 10 Core Build 21H2 Nexus Lite
-![This is an image](https://get.google.com/albumarchive/106812051821809218204/album/AF1QipP_JmEoTXn6nduVMk_YSpyUjoZj1b64KJnCa45g/AF1QipPIvFh88pZzLpCkso5AL8OIWWFF26ICgZMhNG1w?authKey=CI7vjoHshqyAFw)
+![This is an image](https://lh3.googleusercontent.com/JQoJp1v9PYWMVzP6D7HikySsGETPQIOqWTyIF7tGapc7ox3LvK18sDBOIFthDLmLAVKR2aa8SPvzP9Xs5g=w391-h220-rw)
 Dnscrypt @DNSCrypt https://github.com/DNSCrypt/dnscrypt-proxy- Dns seguro encripitado e local, mais rapido e seguro - para remover ir em C:\win64\ e service-uninstall como administrador e ir no adaptador de rede deixando o dns em auto u com o que preferir, pois está em local host dns, ou seja: 127.0.0.1 em ipv4 e ::1 ipv6
 
 Simplewall @henrypp https://github.com/henrypp/simplewall/releases - Já configurado, firewall muito útil e código aberto para melhorar a privacidade e segurança da rede, direito do mouse e desinstalar com hibit-uninstaler se preferir sem ele.
