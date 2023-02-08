@@ -25,7 +25,7 @@ Conta "Nexus" Deixada ativa por questões de configuração, crie com seu nome o
 
 Net Framework 3.5 a 4.8.
 
-Drivers 3ª Geração Intel que servem para vários modelos de PC/Notebook.
+Drivers 3ª Geração Intel.
 
 Drivers Wi-Fi Atheros.
 
