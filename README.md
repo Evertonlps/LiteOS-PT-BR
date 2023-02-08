@@ -38,3 +38,5 @@ Intel HD Graphics.
 Remova os que forem Inutilizáveis.
 
 Wallpapers Padrões Modificados Aleatoriamente.
+
+"Baixe os Arquivos em Release"
